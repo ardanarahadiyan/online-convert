@@ -1,6 +1,6 @@
 # Online USD Rates Info
 
-Made to submit an 2st Assignment about basic basic React Js and API.
+Made to submit an 2nd Assignment about basic basic React Js and API.
 
 ## 📱What is the App?
 This app will show you the rates from USD to 6 different  currency using data from open source API
